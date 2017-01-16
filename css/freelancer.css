@@ -504,7 +504,7 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
-header img {
+.col-lg-12 img {
  border-radius: 25px;
   width: 700px;
 }
