@@ -504,6 +504,6 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
-img[src*-"img/George"] {
-  border-radius: 50%;
+.col-lg-12 img {
+  border-radius: 50px;
 }
