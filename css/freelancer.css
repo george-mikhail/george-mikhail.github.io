@@ -504,6 +504,6 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
-.col-lg-12 img {
+.col-lg-12 img-responsive {
   border-radius: 50px;
 }
