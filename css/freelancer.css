@@ -504,7 +504,6 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
-.col-lg-12 img {
+img[src=“img/George.jpg”] {
  border-radius: 25px;
-  width: 700px;
 }
