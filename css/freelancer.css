@@ -504,6 +504,6 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
-img[src=“img/George.jpg”] {
- border-radius: 25px;
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+ border-radius: 50px;
 }
