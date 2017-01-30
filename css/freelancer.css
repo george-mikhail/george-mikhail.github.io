@@ -504,6 +504,6 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
- #georgeimage {
+ img#georgeimage {
  border-radius: 50px;
 }
